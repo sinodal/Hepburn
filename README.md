@@ -1,5 +1,6 @@
 # Hepburn [AUYH], the cloud computing crypto and service!
 
+![Hepburn](https://o.remove.bg/downloads/f32310a6-ec5f-4e44-a6dd-8029b9daa887/Cute_Donut_Café_Logo-removebg-preview.png)
 
 
 Introducing Hepburn, the cryptocurrency and service built on the purpose of being an ally to Bitcoin and the source 
